@@ -8,7 +8,7 @@
 // @require      https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js
 // @require      https://cdn.bootcss.com/jquery-cookie/1.4.1/jquery.cookie.min.js
 // @resource     icon1 http://geekdream.com/image/115helper_icon_001.jpg
-// @match       http*://*/*
+// @include *
 // @grant       GM_xmlhttpRequest
 // @grant       GM_addStyle
 // @grant       GM_getResourceText
